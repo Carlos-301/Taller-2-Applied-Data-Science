@@ -6,6 +6,7 @@ Estructura del Repositorio:
 
 - data/: Contiene el dataset original (apartamentos.csv) y el diccionario de datos.
 - notebooks/: Contiene el notebook principal (taller2.ipynb) con todo el codigo del analisis, limpieza, modelado y evaluacion.
+- -informeEjecutivo.odf : Es el archivo que contiene el informe ejecutivo con los resultados mas importantes de las actividades realizadas.
 - README.md: Este archivo de documentacion.
 
 Instrucciones de Uso:
